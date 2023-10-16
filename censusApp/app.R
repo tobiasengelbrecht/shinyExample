@@ -1,3 +1,6 @@
+# GROUP 24: ENGELBRECHT TOBIAS, ITZKOWICHT SACHA, MAISTRE ELISE
+# hosted on github: https://github.com/tobiasengelbrecht/shinyExample
+
 # Load packages ----
 library(shiny)
 library(maps)
